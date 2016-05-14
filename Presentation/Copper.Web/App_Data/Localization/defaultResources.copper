@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language Name="Chinese">
+  <LocaleResource Name="Copper.Home">
+    <Value>主页</Value>
+  </LocaleResource>
+</Language>
